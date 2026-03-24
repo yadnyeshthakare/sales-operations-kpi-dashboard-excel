@@ -1,82 +1,97 @@
-Sales Operations & KPI Performance Dashboard (Excel)
+# Sales Operations & KPI Performance Dashboard (Excel)
 
 This project simulates an operational reporting environment where transactional sales data is validated, structured, and transformed into KPI-driven insights to support business operations.
 
-Project Overview
+---
 
-Domain: Sales operations
+## Project Overview
 
-Tool: Microsoft Excel
+**Domain:** Sales operations  
+**Tool:** Microsoft Excel  
+**Focus:** Data quality, KPI reporting, operational performance tracking  
 
-Focus: Data quality, KPI reporting, operational performance tracking
+---
 
-Dashboard Preview
+## Dashboard Preview
 
-Workflow
+![Dashboard Preview](dashboard_preview.png)
 
-Validated and structured raw data to ensure consistency
-Standardized categories, channels, and order status
-Prepared dataset for KPI reporting
-Built pivot-based analysis
-Developed interactive dashboard
+---
 
-Key Deliverables
+## Workflow
 
-KPI performance dashboard
-Channel and category analysis
-Customer segmentation insights
-Order status monitoring
+- Validated and structured raw data to ensure consistency  
+- Standardized categories, channels, and order status  
+- Prepared dataset for KPI reporting  
+- Built pivot-based analysis  
+- Developed interactive dashboard  
 
-Data Quality & Controls
+---
 
-Ensured consistency across fields
-Handled missing and inconsistent data
-Standardized data for reporting
-Structured data for reliability
+## Key Deliverables
 
-Business Impact
+- KPI performance dashboard  
+- Channel and category analysis  
+- Customer segmentation insights  
+- Order status monitoring  
 
-Improved visibility into performance
-Identified high-performing segments
-Provided operational insights
-Supported decision-making
+---
 
-Key Business Insights
+## Data Quality & Controls
 
-• Female customers contribute significantly to sales
+- Ensured consistency across fields  
+- Handled missing and inconsistent data  
+- Standardized data for reporting  
+- Structured data for reliability  
 
-• High delivery success rate reflects efficient operations
+---
 
-• Demand concentrated in key states like Maharashtra
+## Business Impact
 
-• Amazon dominates as primary sales channel
+- Improved visibility into performance  
+- Identified high-performing segments  
+- Provided operational insights  
+- Supported decision-making  
 
-• Sets and Kurtas drive major revenue
+---
 
-• March and August are peak sales periods
+## Key Business Insights
 
-How to Use
+- Female customers contribute significantly to sales  
+- High delivery success rate reflects efficient operations  
+- Demand concentrated in key states like Maharashtra  
+- Amazon dominates as primary sales channel  
+- Sets and Kurtas drive major revenue  
+- March and August are peak sales periods  
 
-Open sales_operations_dashboard.xlsx
-Use filters to explore data
-Review KPIs and trends
+---
 
-Skills Demonstrated
+## How to Use
 
-Data Quality Validation
-KPI Reporting
-Operational Data Analysis
-Business Process Support
-Reporting & Communication
+1. Open `sales_operations_dashboard.xlsx`  
+2. Use filters to explore data  
+3. Review KPIs and trends  
 
-Author
+---
 
-Yadnyesh Thakare
+## Skills Demonstrated
 
-LinkedIn: linkedin.com/in/yadnyesh-thakare
+- Data Quality Validation  
+- KPI Reporting  
+- Operational Data Analysis  
+- Business Process Support  
+- Reporting & Communication  
 
-Email: thakareyadnyesh@gmail.com
+---
 
-Summary
+## Author
+
+**Yadnyesh Thakare**  
+LinkedIn: https://linkedin.com/in/yadnyesh-thakare/  
+Email: thakareyadnyesh@gmail.com  
+
+---
+
+## Summary
 
 This project demonstrates the ability to work with operational datasets by ensuring data quality, building structured reports, and delivering insights that support business processes.
