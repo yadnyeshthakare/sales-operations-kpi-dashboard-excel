@@ -1,27 +1,29 @@
 Sales Operations & KPI Performance Dashboard (Excel)
 
-This project simulates an operational reporting environment where transactional sales data is validated, structured, and transformed into KPI-driven insights to support business operations. It focuses on ensuring data reliability, enabling performance visibility, and supporting decision-making through structured reporting.
+This project simulates an operational reporting environment where transactional sales data is validated, structured, and transformed into KPI-driven insights to support business operations.
 
 Project Overview
 
 Domain: Sales operations
+
 Tool: Microsoft Excel
+
 Focus: Data quality, KPI reporting, operational performance tracking
 
 Dashboard Preview
 
 Workflow
 
-Validated and structured raw data to ensure consistency and usability
-Standardized business dimensions (channels, categories, order status)
-Prepared dataset for reliable KPI tracking and reporting
-Developed pivot-based analytical views
-Built an interactive dashboard
+Validated and structured raw data to ensure consistency
+Standardized categories, channels, and order status
+Prepared dataset for KPI reporting
+Built pivot-based analysis
+Developed interactive dashboard
 
 Key Deliverables
 
-KPI reporting dashboard
-Channel and category performance tracking
+KPI performance dashboard
+Channel and category analysis
 Customer segmentation insights
 Order status monitoring
 
@@ -29,8 +31,8 @@ Data Quality & Controls
 
 Ensured consistency across fields
 Handled missing and inconsistent data
-Standardized inputs
-Structured data for reporting
+Standardized data for reporting
+Structured data for reliability
 
 Business Impact
 
@@ -41,11 +43,16 @@ Supported decision-making
 
 Key Business Insights
 
-• Female customer segment contributes significantly to overall sales
+• Female customers contribute significantly to sales
+
 • High delivery success rate reflects efficient operations
+
 • Demand concentrated in key states like Maharashtra
+
 • Amazon dominates as primary sales channel
+
 • Sets and Kurtas drive major revenue
+
 • March and August are peak sales periods
 
 How to Use
@@ -65,7 +72,9 @@ Reporting & Communication
 Author
 
 Yadnyesh Thakare
-LinkedIn: linkedin.com/in/yadnyesh-thakare/
+
+LinkedIn: linkedin.com/in/yadnyesh-thakare
+
 Email: thakareyadnyesh@gmail.com
 
 Summary
