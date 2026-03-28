@@ -13,7 +13,7 @@ The dataset represents multi-channel sales transactions across categories, custo
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
 
 ---
